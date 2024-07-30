@@ -1,0 +1,53 @@
+# Frontend Mentor Solutions
+
+Bem-vindo ao meu repositório de soluções para os desafios do [Frontend Mentor](https://www.frontendmentor.io/). Este repositório contém minhas implementações de diferentes projetos, cada um com seu próprio diretório.
+
+## Índice
+
+- [Sobre](#sobre)
+- [Desafios](#desafios)
+- [Como Usar](#como-usar)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Contato](#contato)
+
+## Sobre
+
+Este repositório contém minhas soluções para os desafios de Frontend Mentor. Cada desafio foi abordado com foco em melhorar minhas habilidades em desenvolvimento frontend, utilizando HTML, CSS e JavaScript. 
+
+## Desafios
+
+Aqui está a lista de desafios concluídos, com links para cada diretório específico:
+
+-NÃO HÁ DESAFIOS CONCLUIDOS NO MOMENTO
+
+## Como Usar
+
+Para visualizar qualquer um dos projetos localmente, siga estas etapas:
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/frontend-mentor-solutions.git
+    ```
+2. Navegue até o diretório do projeto desejado:
+    ```bash
+    cd nome-do-diretorio-do-projeto
+    ```
+3. Abra o arquivo `index.html` no seu navegador para visualizar o projeto.
+
+## Tecnologias Utilizadas
+
+Cada projeto pode utilizar diferentes tecnologias e ferramentas. Aqui estão algumas das principais:
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Contato
+
+Se você tiver alguma dúvida ou quiser discutir sobre algum dos projetos, sinta-se à vontade para entrar em contato:
+
+- Email: [wgrllpro@gmail.com](mailto:wgrllpro@gmail.com)
+
+---
+
+Obrigado por visitar meu repositório! Espero que minhas soluções possam servir de inspiração ou ajuda para outros desenvolvedores.
